@@ -23,5 +23,5 @@ Features of BILL
 8. Date and time of Product Bought
 
 Rest is explained in the notebook file
-### The second Assignment - data analysis on summer olymic data set
+### The second Assignment - data analysis on summer olympic data set
 1. We solved various questions using data analysis on the dataset using pandas library

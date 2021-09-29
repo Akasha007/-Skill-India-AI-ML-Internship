@@ -25,3 +25,6 @@ Features of BILL
 Rest is explained in the notebook file
 ### The second Assignment - data analysis on summer olympic data set
 1. We solved various questions using data analysis on the dataset using pandas library
+
+### The Final project - Breast Cancer Detection
+1. This project predicts which type of Tumor patient have.We have a dataset that has be taken from sklearn this data set contains 569 tumors and each tumor have 30 features on the basis of the 30 features this project predicts which type of Tumor patient have.
